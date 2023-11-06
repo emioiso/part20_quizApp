@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Bucket
+   uuid = "1EE9CA0C-3B75-45B1-9053-B95214731009"
+   type = "1"
+   version = "2.0">
+   <Breakpoints>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "BD2D9412-A840-4FA9-8E2A-E1DC897C89E6"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "part20_quizApp/ContentView.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "18"
+            endingLineNumber = "18"
+            landmarkName = "ContentView"
+            landmarkType = "14">
+            <Locations>
+               <Location
+                  uuid = "BD2D9412-A840-4FA9-8E2A-E1DC897C89E6 - faa6906197a69a0e"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "part20_quizApp.ContentView.init() -&gt; part20_quizApp.ContentView"
+                  moduleName = "part20_quizApp"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/emioiso/Desktop/SwiftUI%E8%AC%9B%E5%BA%A7/part20_quizApp/part20_quizApp/ContentView.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "18"
+                  endingLineNumber = "18"
+                  offsetFromSymbolStart = "524">
+               </Location>
+               <Location
+                  uuid = "BD2D9412-A840-4FA9-8E2A-E1DC897C89E6 - 89ed9104858aa3fa"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "part20_quizApp.ContentView.init(player: Swift.Optional&lt;__C.AVAudioPlayer&gt;) -&gt; part20_quizApp.ContentView"
+                  moduleName = "part20_quizApp"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/emioiso/Desktop/SwiftUI%E8%AC%9B%E5%BA%A7/part20_quizApp/part20_quizApp/ContentView.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "19"
+                  endingLineNumber = "19"
+                  offsetFromSymbolStart = "36">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+   </Breakpoints>
+</Bucket>
